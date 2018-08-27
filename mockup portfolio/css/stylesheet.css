@@ -1,0 +1,63 @@
+        body {
+		  font-family: "Lato", sans-serif !important;
+		  \
+			  font-size: 1em;
+		  color: #222;
+		  overflow-x: hidden;
+		}
+		
+		.container {
+			padding:32px 0px 0px 0px;
+			width: 100%
+		}
+		
+		.push-down {
+			margin-top: 100px;
+		}
+		
+		.logo-container {
+			position: absolute;
+			display: inline-block;
+			width: 120px;
+			max-width: 100%;
+			height: auto;
+			padding: 5px;
+			margin: 0;
+		}
+		
+		.logo {
+			border: 1px hidden #ddd;
+			display: block;
+			width: 100%;
+			height: auto;
+				   /*padding: 0px 0px 0px 0px;*/
+		}
+		
+		.img-large {
+		   width: 100%;		   height: auto;
+		   padding:8px 0px 24px 0px;
+		}
+		
+		.img-responsive {
+		   height: auto;
+		   max-width: 100%;
+		}
+		
+		.img-feature {
+			width: 100%;	
+		}
+	    
+		.work {
+			color: #ddd;
+	    }
+
+	    .project {
+		    padding:0px 0px 24px 0px;
+	    }
+	    
+		.line {
+			height: 4px;
+			background-color: #ddd;
+			border: none;
+		}
+	 	
